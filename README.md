@@ -19,7 +19,7 @@ The dataset includes daily stock prices from the S&P/NZX 50 index from January 1
 3. **Training and Evaluation**: Models were trained and validated. Performance metrics such as RMSE, R², and MAPE were used to evaluate model efficacy.
 
 ## Results
-The GRU-LSTM model demonstrated superior performance across all metrics for the NZX dataset. 
+The GRU-LSTM model demonstrated superior performance across all metrics for the NZX dataset. The project report provides a detailed explanation of the implementation, evaluation, and findings. 
 
 ## Contact
 For any queries or further information, please get in touch with ms.maythutun@gmail.com. 
